@@ -10,7 +10,4 @@ json -I -f $CONFIG_PATH \
       -e "this.DB_USERNAME='$DB_USERNAME'" \
       -e "this.DB_PASSWORD='$DB_PASSWORD'"
 
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
+    
